@@ -8,8 +8,7 @@ Um jogo de cartas simplificado inspirado em Magic: The Gathering, feito para pra
 
 1. Instale o Python 3.10 ou superior.
 2. Baixe/clonе este repositório.
-3. Abra o terminal na pasta `Mini_Magic_Modular`.
-4. Execute:
+3. Execute:
 
    ```bash
    python main.py
